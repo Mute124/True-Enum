@@ -1,0 +1,6 @@
+*.vs
+*.vscode
+*.conan
+*.filters
+*.user
+x64
