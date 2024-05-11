@@ -1,8 +1,20 @@
-## True Enum
-## about
-True enum is a header only library that aims to make enumerating easy to do! But do not think it is stuck in it's ways, almost every aspect of it can be customized to your needs, an example of which is limiting it's memory usage! 
 
-This library was made for my personal game engine project, Techstorm. It all started when I had an idea "What if Enums could be made during runtime?", and then I decided to try to add that to Techstorm and that is how I ended up making this!
+## True Enum
+## About
+True enum is a fast header only library that aims to make enumerating easy to do! But do not think it is stuck in it's ways, almost every aspect of it can be customized to your needs, an example of which is limiting it's memory usage!
+
+This library was made for my personal game engine project, Techstorm. It all started when I had an idea "What if Enums could be made during runtime?", and then I decided to try to add that to Techstorm and that is how I ended up making this.
+
+## Key Features
+
+ - Type Enumeration
+	 - Provide an alias for variables
+		 - Setting and Getting
+- Reading/Writing to a file
+- Allocating memory to True-Enum
+	- Memory capping 
+- Modularity
+	- Certain features can be turned on and off via a simple preproccessing define.
 
 ## Getting started
 Since this is header-only, you dont need to do a thing at all. Here are two ways you can start using True-Enum. 
